@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Hacktime Stats](https://github-readme-stats.hackclub.dev/api/wakatime)
+![Hacktime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Rith-2056)
 
 
 <!--
