@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Hacktime Stats]([https://github-readme-stats.hackclub.dev/api/wakatime?username=Rith-2056](https://github-readme-stats.hackclub.dev/api/wakatime?username=2257&api_domain=hackatime.hackclub.com&theme=shadow_red&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-))
+![Hacktime Stats]([https://github-readme-stats.hackclub.dev/api/wakatime?username=Rith-2056](https://github-readme-stats.hackclub.dev/api/wakatime?username=2257&api_domain=hackatime.hackclub.com&theme=shadow_red&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
 
 
 <!--
