@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Hacktime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Divyarith56&domain=hackatime.hackclub.com&theme=shadow_green&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hacktime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=DIvyarith56&api_domain=hackatime.hackclub.com&theme=dark)
 
 
 
