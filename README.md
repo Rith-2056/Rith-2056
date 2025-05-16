@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Hacktime Stats](https://github-readme-stats.hackclub.dev/api/wakatime)
+
+
 <!--
 **Rith-2056/Rith-2056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
